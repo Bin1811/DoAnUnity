@@ -1,0 +1,21 @@
+MEO THU THANH - Cat Tower Defense
+================================
+
+Chay game: nhap doi vao MeoThuThanh.exe
+Khong can cai Unity. Khong can mang.
+
+Dieu khien:
+- Chuot trai: chon / dat meo, bam nut
+- Chuot phai hoac Esc: huy dat, bo chon
+- Phim 1-4: chon nhanh meo
+- Space: goi dot tiep theo
+- P: tam dung / tiep tuc
+- M: bat tat am thanh
+- R: choi lai khi da thang/thua
+- Nut x1/x2: tang toc tran dau
+
+Muc tieu: giu thanh meo qua 20 dot chuot.
+Moi meo dat tren bai co, khong dat duoc len duong di.
+Bam vao meo da dat de nang cap hoac ban.
+
+Chuc ban choi vui!
